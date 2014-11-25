@@ -27,3 +27,5 @@
     noprefix = true
 [help]
     autocorrect = 1
+[push]
+	default = simple
